@@ -1,12 +1,18 @@
 {
   "name": "ejs-lint",
-  "version": "2.0.1",
+  "version": "2.0.1-lineaje-01",
   "description": "Linter/Syntax Checker for EJS Templates",
   "author": "Ryan Zimmerman <opensrc@ryanzim.com> (http://ryanzim.com/)",
   "license": "MIT",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/ryanzim/ejs-lint.git"
+    "url": "https://github.com/lineaje-labs-gos/ryanzim-ejs-lint"
   },
   "homepage": "https://github.com/RyanZim/EJS-Lint",
   "bugs": "https://github.com/RyanZim/EJS-Lint/issues",
